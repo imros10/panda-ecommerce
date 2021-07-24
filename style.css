@@ -1,6 +1,7 @@
 .btn{
     background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: white;
 }
-.header-section{
+.header-section,footer{
     background-color: #FCEAE8;
 }
